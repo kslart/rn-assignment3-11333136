@@ -27,4 +27,4 @@ The main component that renders the overall layout of the application, including
 
 ## Screenshots
 
-![Screenshot](./rn-3/screenshot.png)
+![Screenshot](./screenshot.png)
